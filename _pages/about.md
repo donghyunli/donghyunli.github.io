@@ -15,10 +15,11 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 
 ## News
-- [Apr / 2024] [One paper](https://www.sciencedirect.com/science/article/pii/S2352940724001501) is accepted to Applied Materials Today. 
-- [Feb / 2024] I will be starting my Ph.D. in Electrical Engineering at Yale University from Fall 2024!
-- [Feb / 2024] [One paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202311994) is accepted to Advanced Functional Materials.
-- [Nov / 2023] [One paper](https://arxiv.org/pdf/2401.08001) is accepted to 27th Design, Automation and Test in Europe Conference (DATE).
+### 2024
+- [Apr] 📖 [One paper](https://www.sciencedirect.com/science/article/pii/S2352940724001501) is accepted to Applied Materials Today. 
+- [Feb] 🎉 I will be starting my Ph.D. in Electrical Engineering at Yale University from Fall 2024!
+- [Feb] 📖 [One paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202311994) is accepted to Advanced Functional Materials.
+- [Jan] 📖 [One paper](https://arxiv.org/pdf/2401.08001) is accepted to 27th Design, Automation and Test in Europe Conference (DATE).
 
 
 ## Publications
@@ -81,7 +82,10 @@ Wooshik Myung, **Donghyun Lee**, Chenhang Song, Guanrui Wang, Cheng Ma
 - **QTTNet: Quantized tensor train neural networks for 3D object and video recognition**  
 **Donghyun Lee**, Dingheng Wang, Yukuan Yang, Lei Deng, Guangshe Zhao, Guoqi Li  
 **Neural Networks**, 2021  
-[[paper](https://www.sciencedirect.com/science/article/pii/S0893608021002306)] [[code](https://github.com/donghyunli/QTTNet)]
-
+[[paper](https://www.sciencedirect.com/science/article/pii/S0893608021002306)] [[code](https://github.com/donghyunli/QTTNet)]  
+  
+<div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdonghyunli.github.io&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://donghyunli.github.io/)  
+
+</div>
