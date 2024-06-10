@@ -13,6 +13,7 @@ Hello, I am incoming Ph.D. student in Electrical Engineering Department at Yale 
 
 I received B.E. degree in Mechanical Engineering Department at Yonsei University, South Korea and M.S. degree in Precision Instrument at Tsinghua University, China. Prior to joining Yale, he worked as an AI researcher at Ulsan National Institute of Science and Technology (UNIST), South Korea. My research interests center around spiking neural network, efficient deep learning strategies, and neuromorphic computing.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdonghyunli.github.io&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://donghyunli.github.io/)
 
 ## News
 ### 2024
@@ -83,11 +84,3 @@ Wooshik Myung, **Donghyun Lee**, Chenhang Song, Guanrui Wang, Cheng Ma
 **Donghyun Lee**, Dingheng Wang, Yukuan Yang, Lei Deng, Guangshe Zhao, Guoqi Li  
 **Neural Networks**, 2021  
 [[paper](https://www.sciencedirect.com/science/article/pii/S0893608021002306)] [[code](https://github.com/donghyunli/QTTNet)]
-
-<div align=center> 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdonghyunli.github.io&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://donghyunli.github.io/)
-
-</div>
-
-
