@@ -21,7 +21,7 @@
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "donghyun.png"
+  avatar           : "cafe.png"
   name             : "Donghyun Lee"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student in the EE Department at Yale University."
