@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Donghyun.png"
+  avatar           : "/images/Donghyun.png"
   name             : "Donghyun Lee"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student in the EE Department at Yale University."
