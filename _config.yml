@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Donghyun Lee"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Ph.D student in the Electrical Engineering Department at Yale University."
   location         : "USA"
   employer         : "Yale University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/donghyunli"
+  github           : "donghyunli"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/donghyun-lee-a12064180/"
+  linkedin         : "donghyun-lee-a12064180"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
