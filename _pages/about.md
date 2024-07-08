@@ -17,10 +17,11 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 ## News
 ### 2024
+- [Jul] 📖 [One paper](https://arxiv.org/pdf/2312.05272) is accepted to the 18th European Conference on Computer Vision (ECCV). 
 - [Apr] 📖 [One paper](https://www.sciencedirect.com/science/article/pii/S2352940724001501) is accepted to Applied Materials Today. 
 - [Feb] 🎉 I will be starting my Ph.D. in Electrical Engineering at Yale University from Fall 2024!
 - [Feb] 📖 [One paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202311994) is accepted to Advanced Functional Materials.
-- [Jan] 📖 [One paper](https://arxiv.org/pdf/2401.08001) is accepted to 27th Design, Automation and Test in Europe Conference (DATE).
+- [Jan] 📖 [One paper](https://arxiv.org/pdf/2401.08001) is accepted to the 27th Design, Automation and Test in Europe Conference (DATE).
 
 
 ## Publications
@@ -38,7 +39,8 @@ Shiting Xiao, Yuhang Li, Youngeun Kim, **Donghyun Lee**, Priyadarshini Panda
 
 - **GenQ: Quantization in Low Data Regimes with Generative Synthetic Data**  
 Yuhang Li, Youngeun Kim, **Donghyun Lee**, Souvik Kundu, Priyadarshini Panda     
-*Underivew*
+**European Conference on Computer Vision (ECCV)**, 2024  
+[[paper](https://arxiv.org/pdf/2312.05272)]
 
 - **Forming-less flexible memristor crossbar array for neuromorphic computing applications produced using low-temperature atomic layer deposition**  
 Minjae Kim, Dong-eun Kim, Yue Wang, **Donghyun Lee**, Dong-Hyeok Lim, Haryeong Choi, Ioannis Kymissis, J Joshua Yang, Joonki Suh, Hong-Sub Lee, Hyung-Ho Park  
