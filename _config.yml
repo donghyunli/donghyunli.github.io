@@ -25,7 +25,7 @@ author:
   name             : "Donghyun Lee"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student in the EE Department at Yale University."
-  location         : "USA"
+  location         : # "USA"
   employer         : "Yale University"
   uri              : # URL
   email            : "donghyun.lee@yale.edu" 
