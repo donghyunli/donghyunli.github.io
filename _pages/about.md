@@ -35,7 +35,7 @@ Yuhang Li, Ruokai Yin, **Donghyun Lee**, Youngeun Kim, Souvik Kundu, Priyadarshi
 
 - **ReSpike: Residual Frames-based Spiking Neural Networks for Efficient Action Recognition**  
 Shiting Xiao, Yuhang Li, Youngeun Kim, **Donghyun Lee**, Priyadarshini Panda     
-*Underivew*
+[[paper](https://arxiv.org/pdf/2409.01564)]
 
 - **GenQ: Quantization in Low Data Regimes with Generative Synthetic Data**  
 Yuhang Li, Youngeun Kim, **Donghyun Lee**, Souvik Kundu, Priyadarshini Panda     
