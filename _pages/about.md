@@ -48,8 +48,8 @@ Minjae Kim, Dong-eun Kim, Yue Wang, **Donghyun Lee**, Dong-Hyeok Lim, Haryeong C
 [[paper](https://www.sciencedirect.com/science/article/pii/S2352940724001501)]
 
 - **Molecularly Reconfigurable Neuroplasticity of Layered Artificial Synapse Electronics**  
-Dhananjay D Kumbhar, Yeonjin Je, Seongin Hong, **Donghyun Lee**, Hyeongtae Kim, Mi Ji Kwon, Su‐Yeon Cho, Do‐Hyeon Lee, Dong‐Hyeok Lim, Sunkook Kim, Jun Hong Park
-**Advanced Functional Materials**, 2024  
+Dhananjay D Kumbhar, Yeonjin Je, Seongin Hong, **Donghyun Lee**, Hyeongtae Kim, Mi Ji Kwon, Su‐Yeon Cho, Do‐Hyeon Lee, Dong‐Hyeok Lim, Sunkook Kim, Jun Hong Park 
+**Advanced Functional Materials**, 2024
 [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202311994)]
 
 - **TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training**  
