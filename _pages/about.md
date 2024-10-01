@@ -25,13 +25,13 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 
 ## Publications
-- **Spiking Transformer with Spatial-Temporal Attention**  
-**Donghyun Lee**, Youngeun Kim, Yuhang Li, Shiting Xiao, Priyadarshini Panda  
-*Underivew*
-
 - **Scaling Direct Feedback Alignment for ImageNet Training**  
 Yuhang Li, Ruokai Yin, **Donghyun Lee**, Youngeun Kim, Souvik Kundu, Priyadarshini Panda  
 *Underivew*
+
+- **Spiking Transformer with Spatial-Temporal Attention**  
+**Donghyun Lee**, Youngeun Kim, Yuhang Li, Shiting Xiao, Priyadarshini Panda  
+[[paper](https://arxiv.org/pdf/2409.19764)]
 
 - **ReSpike: Residual Frames-based Spiking Neural Networks for Efficient Action Recognition**  
 Shiting Xiao, Yuhang Li, Youngeun Kim, **Donghyun Lee**, Priyadarshini Panda     
