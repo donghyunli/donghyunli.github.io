@@ -35,12 +35,12 @@ Yuhang Li, Ruokai Yin, **Donghyun Lee**, Youngeun Kim, Souvik Kundu, Priyadarshi
 
 - **ReSpike: Residual Frames-based Spiking Neural Networks for Efficient Action Recognition**  
 Shiting Xiao, Yuhang Li, Youngeun Kim, **Donghyun Lee**, Priyadarshini Panda     
-[[paper](https://arxiv.org/pdf/2409.01564)]
+[[paper](https://arxiv.org/pdf/2409.01564)] [[code](https://github.com/GinnyXiao/ReSpike)]
 
 - **GenQ: Quantization in Low Data Regimes with Generative Synthetic Data**  
 Yuhang Li, Youngeun Kim, **Donghyun Lee**, Souvik Kundu, Priyadarshini Panda     
 **European Conference on Computer Vision (ECCV)**, 2024  
-[[paper](https://arxiv.org/pdf/2312.05272)]
+[[paper](https://arxiv.org/pdf/2312.05272)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/GenQ)]
 
 - **Forming-less flexible memristor crossbar array for neuromorphic computing applications produced using low-temperature atomic layer deposition**  
 Minjae Kim, Dong-eun Kim, Yue Wang, **Donghyun Lee**, Dong-Hyeok Lim, Haryeong Choi, Ioannis Kymissis, J Joshua Yang, Joonki Suh, Hong-Sub Lee, Hyung-Ho Park  
