@@ -30,7 +30,7 @@ Yuhang Li, Ruokai Yin, **Donghyun Lee**, Youngeun Kim, Souvik Kundu, Priyadarshi
 *Underivew*
 
 - **Spiking Transformer with Spatial-Temporal Attention**  
-**Donghyun Lee**, Youngeun Kim, Yuhang Li, Shiting Xiao, Priyadarshini Panda  
+**Donghyun Lee**, Yuhang Li, Youngeun Kim,Shiting Xiao, Priyadarshini Panda  
 [[paper](https://arxiv.org/pdf/2409.19764)]
 
 - **ReSpike: Residual Frames-based Spiking Neural Networks for Efficient Action Recognition**  
