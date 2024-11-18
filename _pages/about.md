@@ -25,8 +25,8 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 
 ## Publications
-- **Infrared-Triggered Retinomorphic Artificial Synapse Electronic Device Containing Multi-Dimensional van der Waals Heterojunctions**
-Soobin Shim*, Seongchan Kim*, **Donghyun Lee**\*, Hyeongtae Kim, Mi Ji Kwon, Su-yeon Cho, Windy Ayu Lestari, Jaeyoung Seo, Dongjoon Yeo, Jina Na, Somnath Suhas Kundale, Nuri Oh and Jun Hong Park
+- **Infrared-Triggered Retinomorphic Artificial Synapse Electronic Device Containing Multi-Dimensional van der Waals Heterojunctions**\\
+Soobin Shim\*, Seongchan Kim\*, **Donghyun Lee**\*, Hyeongtae Kim, Mi Ji Kwon, Su-yeon Cho, Windy Ayu Lestari, Jaeyoung Seo, Dongjoon Yeo, Jina Na, Somnath Suhas Kundale, Nuri Oh and Jun Hong Park\\
 *Underivew*
 
 - **Scaling Direct Feedback Alignment for ImageNet Training**  
@@ -52,7 +52,7 @@ Minjae Kim, Dong-eun Kim, Yue Wang, **Donghyun Lee**, Dong-Hyeok Lim, Haryeong C
 [[paper](https://www.sciencedirect.com/science/article/pii/S2352940724001501)]
 
 - **Molecularly Reconfigurable Neuroplasticity of Layered Artificial Synapse Electronics**  
-Dhananjay D Kumbhar, Yeonjin Je, Seongin Hong, **Donghyun Lee**, Hyeongtae Kim, Mi Ji Kwon, Su‐Yeon Cho, Do‐Hyeon Lee, Dong‐Hyeok Lim, Sunkook Kim, Jun Hong Park 
+Dhananjay D Kumbhar, Yeonjin Je, Seongin Hong, **Donghyun Lee**, Hyeongtae Kim, Mi Ji Kwon, Su‐Yeon Cho, Do‐Hyeon Lee, Dong‐Hyeok Lim, Sunkook Kim, Jun Hong Park \\
 **Advanced Functional Materials**, 2024
 [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202311994)]
 
