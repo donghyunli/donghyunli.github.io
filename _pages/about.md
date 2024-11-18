@@ -25,6 +25,10 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 
 ## Publications
+- **Infrared-Triggered Retinomorphic Artificial Synapse Electronic Device Containing Multi-Dimensional van der Waals Heterojunctions**
+Soobin Shim*, Seongchan Kim*, **Donghyun Lee**\*, Hyeongtae Kim, Mi Ji Kwon, Su-yeon Cho, Windy Ayu Lestari, Jaeyoung Seo, Dongjoon Yeo, Jina Na, Somnath Suhas Kundale, Nuri Oh and Jun Hong Park
+*Underivew*
+
 - **Scaling Direct Feedback Alignment for ImageNet Training**  
 Yuhang Li, Ruokai Yin, **Donghyun Lee**, Youngeun Kim, Souvik Kundu, Priyadarshini Panda  
 *Underivew*
