@@ -16,6 +16,9 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdonghyunli.github.io&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://donghyunli.github.io/)
 
 ## News
+### 2025
+- [Jan] 📖 [One paper](https://arxiv.org/pdf/2409.01564) is accepted to Neuromorphic Computing and Engineering. 
+
 ### 2024
 - [Jul] 📖 [One paper](https://arxiv.org/pdf/2312.05272) is accepted to the 18th European Conference on Computer Vision (ECCV). 
 - [Apr] 📖 [One paper](https://www.sciencedirect.com/science/article/pii/S2352940724001501) is accepted to Applied Materials Today. 
@@ -39,6 +42,7 @@ Yuhang Li, Ruokai Yin, **Donghyun Lee**, Youngeun Kim, Souvik Kundu, Priyadarshi
 
 - **ReSpike: Residual Frames-based Spiking Neural Networks for Efficient Action Recognition**\\
 Shiting Xiao, Yuhang Li, Youngeun Kim, **Donghyun Lee**, Priyadarshini Panda\\
+**Neuromorphic Computing and Engineering**, 2025\\
 [[paper](https://arxiv.org/pdf/2409.01564)] [[code](https://github.com/GinnyXiao/ReSpike)]
 
 - **GenQ: Quantization in Low Data Regimes with Generative Synthetic Data**\\
