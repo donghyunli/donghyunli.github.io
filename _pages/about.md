@@ -100,5 +100,5 @@ Wooshik Myung, **Donghyun Lee**, Chenhang Song, Guanrui Wang, Cheng Ma\\
 
 ## Professional Activities
 - Reviewer, NeurIPS 2024
-- Reviewer, ICRL 2025
+- Reviewer, ICLR 2025
 - Reviewer, AISTATS 2025
