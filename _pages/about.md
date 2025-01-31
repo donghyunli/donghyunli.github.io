@@ -95,3 +95,10 @@ Wooshik Myung, **Donghyun Lee**, Chenhang Song, Guanrui Wang, Cheng Ma\\
 **Donghyun Lee**, Dingheng Wang, Yukuan Yang, Lei Deng, Guangshe Zhao, Guoqi Li\\
 **Neural Networks**, 2021\\
 [[paper](https://www.sciencedirect.com/science/article/pii/S0893608021002306)] [[code](https://github.com/donghyunli/QTTNet)]
+
+
+
+## Professional Activities
+- Reviewer, NeurIPS 2024
+- Reviewer, ICRL 2025
+- Reviewer, AISTATS 2025
