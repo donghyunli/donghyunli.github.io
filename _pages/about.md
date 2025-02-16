@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello, I am incoming Ph.D. student in Electrical Engineering Department at Yale University, under supervised by [Prof. Priyadarshini Panda](https://intelligentcomputinglab.yale.edu/principal-investigator).
+Hello, I am 1st year Ph.D. student in Electrical Engineering Department at Yale University, under supervised by [Prof. Priyadarshini Panda](https://intelligentcomputinglab.yale.edu/principal-investigator).
 
 
 I received B.E. degree in Mechanical Engineering Department at Yonsei University, South Korea and M.S. degree in Precision Instrument at Tsinghua University, China. Prior to joining Yale, I worked as an AI researcher at Ulsan National Institute of Science and Technology (UNIST), South Korea. My research interests center around spiking neural network, efficient deep learning strategies, and neuromorphic computing.
@@ -28,17 +28,22 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 
 ## Publications
+- **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\
+Yuhang Li, **Donghyun Lee**, Ruokai Yin, Priyadarshini Panda\\
+*Under-review*\\
+[[paper](https://arxiv.org/pdf/2410.19103)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ)]
+
 - **Infrared-Triggered Retinomorphic Artificial Synapse Electronic Device Containing Multi-Dimensional van der Waals Heterojunctions**\\
 Soobin Shim\*, Seongchan Kim\*, **Donghyun Lee**\*, Hyeongtae Kim, Mi Ji Kwon, Su-yeon Cho, Windy Ayu Lestari, Jaeyoung Seo, Dongjoon Yeo, Jina Na, Somnath Suhas Kundale, Nuri Oh and Jun Hong Park\\
-*Underivew*
+*Under-review*
 
 <!-- - **Scaling Direct Feedback Alignment for ImageNet Training**\\
 Yuhang Li, Ruokai Yin, **Donghyun Lee**, Youngeun Kim, Souvik Kundu, Priyadarshini Panda\\
-*Underivew* -->
+*Under-review* -->
 
 - **Spiking Transformer with Spatial-Temporal Attention**\\
-**Donghyun Lee**, Yuhang Li, Youngeun Kim,Shiting Xiao, Priyadarshini Panda\\
-*Underivew*\\
+**Donghyun Lee**, Yuhang Li, Youngeun Kim, Shiting Xiao, Priyadarshini Panda\\
+*Under-review*\\
 [[paper](https://arxiv.org/pdf/2409.19764)]
 
 - **ReSpike: Residual Frames-based Spiking Neural Networks for Efficient Action Recognition**\\

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="54bf81d2-f653-4eeb-b901-c4e610ddd6cb" name="grace">
+        <fileTransfer rootFolder="/home/dl2345" accessType="SFTP" host="grace1.ycrc.yale.edu" port="22" sshConfigId="6433248e-f56d-4d67-9bef-a040cc99cff6" sshConfig="dl2345@grace1.ycrc.yale.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
