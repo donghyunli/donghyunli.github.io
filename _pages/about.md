@@ -17,6 +17,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 ## News
 ### 2025
+- [Feb] 📖 [One paper](https://arxiv.org/pdf/2409.19764) is accepted to Computer Vision and Pattern Recognition (CVPR). 
 - [Jan] 📖 [One paper](https://arxiv.org/pdf/2409.01564) is accepted to Neuromorphic Computing and Engineering. 
 
 ### 2024
@@ -43,7 +44,7 @@ Yuhang Li, Ruokai Yin, **Donghyun Lee**, Youngeun Kim, Souvik Kundu, Priyadarshi
 
 - **Spiking Transformer with Spatial-Temporal Attention**\\
 **Donghyun Lee**, Yuhang Li, Youngeun Kim, Shiting Xiao, Priyadarshini Panda\\
-*Under-review*\\
+**Computer Vision and Pattern Recognition (CVPR)**, 2025\\
 [[paper](https://arxiv.org/pdf/2409.19764)]
 
 - **ReSpike: Residual Frames-based Spiking Neural Networks for Efficient Action Recognition**\\
