@@ -17,6 +17,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 ## News
 ### 2025
+- [Mar] 📖 [One paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.202410892) is accepted to Small. 
 - [Feb] 📖 [One paper](https://arxiv.org/pdf/2409.19764) is accepted to Computer Vision and Pattern Recognition (CVPR). 
 - [Jan] 📖 [One paper](https://arxiv.org/pdf/2409.01564) is accepted to Neuromorphic Computing and Engineering. 
 
@@ -36,7 +37,8 @@ Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 
 - **Infrared-Triggered Retinomorphic Artificial Synapse Electronic Device Containing Multi-Dimensional van der Waals Heterojunctions**\\
 Soobin Shim\*, Seongchan Kim\*, ***Donghyun Lee***\*, Hyeongtae Kim, Mi Ji Kwon, Su-yeon Cho, Windy Ayu Lestari, Jaeyoung Seo, Dongjoon Yeo, Jina Na, Somnath Suhas Kundale, Nuri Oh and Jun Hong Park\\
-*Under-review*
+**Small**\\
+[[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.202410892)]
 
 <!-- - **Scaling Direct Feedback Alignment for ImageNet Training**\\
 Yuhang Li, Ruokai Yin, ***Donghyun Lee***, Youngeun Kim, Souvik Kundu, Priyadarshini Panda\\
