@@ -37,7 +37,7 @@ Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 
 - **Infrared-Triggered Retinomorphic Artificial Synapse Electronic Device Containing Multi-Dimensional van der Waals Heterojunctions**\\
 Soobin Shim\*, Seongchan Kim\*, ***Donghyun Lee***\*, Hyeongtae Kim, Mi Ji Kwon, Su-yeon Cho, Windy Ayu Lestari, Jaeyoung Seo, Dongjoon Yeo, Jina Na, Somnath Suhas Kundale, Nuri Oh and Jun Hong Park\\
-**Small**\\
+**Small**, 2025\\
 [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.202410892)]
 
 <!-- - **Scaling Direct Feedback Alignment for ImageNet Training**\\
