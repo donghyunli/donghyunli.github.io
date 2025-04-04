@@ -30,6 +30,11 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 
 ## Publications
+- **GPTQv2: Efficient Finetuning-Free Quantization with Asymmetric Calibration**\\
+Yuhang Li, Ruokai Yin, ***Donghyun Lee***, Shiting Xiao, Priyadarshini Panda\\
+*Under-review*\\
+[[paper](https://arxiv.org/pdf/2504.02692)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/GPTQv2)]
+
 - **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 *Under-review*\\
