@@ -17,6 +17,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 ## News
 ### 2025
+- [May] 📖 [One paper](https://arxiv.org/pdf/2504.02692) is accepted to International Conference on Machine Learning (ICML).
 - [Mar] 📖 [One paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.202410892) is accepted to Small. 
 - [Feb] 📖 [One paper](https://arxiv.org/pdf/2409.19764) is accepted to Computer Vision and Pattern Recognition (CVPR). 
 - [Jan] 📖 [One paper](https://arxiv.org/pdf/2409.01564) is accepted to Neuromorphic Computing and Engineering. 
@@ -30,15 +31,15 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 
 ## Publications
-- **GPTQv2: Efficient Finetuning-Free Quantization with Asymmetric Calibration**\\
-Yuhang Li, Ruokai Yin, ***Donghyun Lee***, Shiting Xiao, Priyadarshini Panda\\
-*Under-review*\\
-[[paper](https://arxiv.org/pdf/2504.02692)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/GPTQv2)]
-
 - **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 *Under-review*\\
 [[paper](https://arxiv.org/pdf/2410.19103)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ)]
+
+- **GPTQv2: Efficient Finetuning-Free Quantization with Asymmetric Calibration**\\
+Yuhang Li, Ruokai Yin, ***Donghyun Lee***, Shiting Xiao, Priyadarshini Panda\\
+**International Conference on Machine Learning (ICML)**, 2025\\
+[[paper](https://arxiv.org/pdf/2504.02692)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/GPTQv2)]
 
 - **Infrared-Triggered Retinomorphic Artificial Synapse Electronic Device Containing Multi-Dimensional van der Waals Heterojunctions**\\
 Soobin Shim\*, Seongchan Kim\*, ***Donghyun Lee***\*, Hyeongtae Kim, Mi Ji Kwon, Su-yeon Cho, Windy Ayu Lestari, Jaeyoung Seo, Dongjoon Yeo, Jina Na, Somnath Suhas Kundale, Nuri Oh and Jun Hong Park\\
