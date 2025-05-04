@@ -13,7 +13,7 @@ Hello, I am 1st year Ph.D. student in Electrical Engineering Department at Yale 
 
 I received B.E. degree in Mechanical Engineering Department at Yonsei University, South Korea and M.S. degree in Precision Instrument at Tsinghua University, China. Prior to joining Yale, I worked as an AI researcher at Ulsan National Institute of Science and Technology (UNIST), South Korea. My research interests center around spiking neural network, efficient deep learning strategies, and neuromorphic computing.
 
-[![Hits](https://hits.sh/donghyunli.github.io/homepage.svg?style=plastic&color=23E7E7E7)](https://donghyunli.github.io/)
+[![Hits](https://hits.sh/donghyunli.github.io.svg?style=plastic&color=23E7E7E7)](https://hits.sh/donghyunli.github.io/)
 
 ## News
 ### 2025
