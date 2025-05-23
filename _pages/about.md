@@ -36,7 +36,7 @@ Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 *Under-review*\\
 [[paper](https://arxiv.org/pdf/2410.19103)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ)]
 
-- **GPTQAQ: Efficient Finetuning-Free Quantization with Asymmetric Calibration**\\
+- **GPTAQ: Efficient Finetuning-Free Quantization with Asymmetric Calibration**\\
 Yuhang Li, Ruokai Yin, ***Donghyun Lee***, Shiting Xiao, Priyadarshini Panda\\
 **International Conference on Machine Learning (ICML)**, 2025\\
 [[paper](https://arxiv.org/pdf/2504.02692)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/GPTQv2)]
