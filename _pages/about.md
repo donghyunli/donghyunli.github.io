@@ -29,12 +29,16 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 - [Feb] 📖 [One paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202311994) is accepted to Advanced Functional Materials.
 - [Jan] 📖 [One paper](https://arxiv.org/pdf/2401.08001) is accepted to the 27th Design, Automation and Test in Europe Conference (DATE).
 
+## Preprint
+- ***Memba*: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**\\
+***Donghyun Lee***, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda\\
+[paper], [code]
 
-## Publications
 - **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
-*Under-review*\\
 [[paper](https://arxiv.org/pdf/2410.19103)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ)]
+
+## Publications
 
 - **GPTAQ: Efficient Finetuning-Free Quantization with Asymmetric Calibration**\\
 Yuhang Li, Ruokai Yin, ***Donghyun Lee***, Shiting Xiao, Priyadarshini Panda\\
