@@ -32,7 +32,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ## Preprint
 - ***Memba*: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**\\
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda\\
-[paper], [code]
+[[paper](https://arxiv.org/pdf/2506.18184)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Memba)]
 
 - **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
