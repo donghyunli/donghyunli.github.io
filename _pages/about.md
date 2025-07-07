@@ -34,6 +34,10 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2506.18184)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Memba)]
 
+- **DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs**\\
+Ruokai Yin, Yuhang Li, ***Donghyun Lee***, Priyadarshini Panda\\
+[[paper](https://arxiv.org/pdf/2506.20194)]
+
 - **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2410.19103)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ)]
