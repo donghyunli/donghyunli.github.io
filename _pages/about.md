@@ -38,6 +38,10 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 Ruokai Yin, Yuhang Li, ***Donghyun Lee***, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2506.20194)]
 
+- **OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**\\
+Shiting Xiao, Rishabh Kabra, Yuhang Li, ***Donghyun Lee***, João Carreira, Priyadarshini Panda\\
+[[paper](https://arxiv.org/pdf/2507.05427)]
+
 - **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2410.19103)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ)]
