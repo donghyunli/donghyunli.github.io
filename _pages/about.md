@@ -17,6 +17,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 ## News
 ### 2025
+- [Jul] 📖 [STAtten](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Spiking_Transformer_with_Spatial-Temporal_Attention_CVPR_2025_paper.pdf) is accepted to 2nd Workshop on Neuromorphic Vision (NeVi) of ICCV.
 - [May] 📖 [One paper](https://arxiv.org/pdf/2504.02692) is accepted to International Conference on Machine Learning (ICML).
 - [Mar] 📖 [One paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.202410892) is accepted to Small. 
 - [Feb] 📖 [One paper](https://arxiv.org/pdf/2409.19764) is accepted to Computer Vision and Pattern Recognition (CVPR). 
