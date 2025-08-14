@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello, I am 1st year Ph.D. student in Electrical Engineering Department at Yale University, under supervised by [Prof. Priyadarshini Panda](https://intelligentcomputinglab.yale.edu/principal-investigator).
+Hello, I am 2nd year Ph.D. student in Electrical Engineering Department at Yale University, under supervised by [Prof. Priyadarshini Panda](https://intelligentcomputinglab.yale.edu/principal-investigator).
 
 
 I received B.E. degree in Mechanical Engineering Department at Yonsei University, South Korea and M.S. degree in Precision Instrument at Tsinghua University, China. Prior to joining Yale, I worked as an AI researcher at Ulsan National Institute of Science and Technology (UNIST), South Korea. My research interests center around spiking neural network, efficient deep learning strategies, and neuromorphic computing.
