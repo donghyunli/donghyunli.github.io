@@ -132,5 +132,5 @@ Wooshik Myung, ***Donghyun Lee***, Chenhang Song, Guanrui Wang, Cheng Ma\\
 - Reviewer, NeurIPS 2024, 2025
 - Reviewer, ICLR 2025
 - Reviewer, AAAI 2026
-- Reviewer, AISTATS 2025
+- Reviewer, AISTATS 2025, 2026
 - Reviewer, Neurocomputing
