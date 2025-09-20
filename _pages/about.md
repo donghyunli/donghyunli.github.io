@@ -20,6 +20,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 ## News
 ### 2025
+- [Sep] 📖 Two papers, [DuoGPT](https://arxiv.org/pdf/2506.20194), [OpenWorldSAM](https://arxiv.org/pdf/2507.05427) are accepted to Neural Information Processing Systems (NeurIPS).
 - [Jul] 📖 [STAtten](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Spiking_Transformer_with_Spatial-Temporal_Attention_CVPR_2025_paper.pdf) is accepted to 2nd Workshop on Neuromorphic Vision (NeVi) of ICCV.
 - [May] 📖 [One paper](https://arxiv.org/pdf/2504.02692) is accepted to International Conference on Machine Learning (ICML).
 - [Mar] 📖 [One paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.202410892) is accepted to Small. 
@@ -38,19 +39,21 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2506.18184)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Memba)]
 
-- **DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs**\\
-Ruokai Yin, Yuhang Li, ***Donghyun Lee***, Priyadarshini Panda\\
-[[paper](https://arxiv.org/pdf/2506.20194)]
-
-- **OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**\\
-Shiting Xiao, Rishabh Kabra, Yuhang Li, ***Donghyun Lee***, João Carreira, Priyadarshini Panda\\
-[[paper](https://arxiv.org/pdf/2507.05427)]
-
 - **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2410.19103)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ)]
 
 ## Publications
+
+- **DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs**\\
+Ruokai Yin, Yuhang Li, ***Donghyun Lee***, Priyadarshini Panda\\
+**Neural Information Processing Systems (NeurIPS)**, 2025\\
+[[paper](https://arxiv.org/pdf/2506.20194)]
+
+- **OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**\\
+Shiting Xiao, Rishabh Kabra, Yuhang Li, ***Donghyun Lee***, João Carreira, Priyadarshini Panda\\
+**Neural Information Processing Systems (NeurIPS)**, 2025\\
+[[paper](https://arxiv.org/pdf/2507.05427)]
 
 - **GPTAQ: Efficient Finetuning-Free Quantization with Asymmetric Calibration**\\
 Yuhang Li, Ruokai Yin, ***Donghyun Lee***, Shiting Xiao, Priyadarshini Panda\\
