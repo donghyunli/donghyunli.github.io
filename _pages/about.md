@@ -39,6 +39,10 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2506.18184)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Memba)]
 
+- **SpikePool: Event-driven Spiking Transformer with Pooling Attention**\\
+***Donghyun Lee***, Alex Sima, Yuhang Li, Panos Stinis, Priyadarshini Panda\\
+[[paper](https://arxiv.org/pdf/2510.12102)]
+
 - **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2410.19103)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ)]
@@ -133,7 +137,7 @@ Wooshik Myung, ***Donghyun Lee***, Chenhang Song, Guanrui Wang, Cheng Ma\\
 
 ## Professional Activities
 - Reviewer, NeurIPS 2024, 2025
-- Reviewer, ICLR 2025
+- Reviewer, ICLR 2025, 2026
 - Reviewer, AAAI 2026
 - Reviewer, AISTATS 2025, 2026
 - Reviewer, Neurocomputing
