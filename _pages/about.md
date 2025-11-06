@@ -20,6 +20,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 
 ## News
 ### 2025
+- [Nov] 📖 MD-SNN is accepted to the 29th Design, Automation and Test in Europe Conference (DATE).
 - [Sep] 📖 Two papers, [DuoGPT](https://arxiv.org/pdf/2506.20194), [OpenWorldSAM](https://arxiv.org/pdf/2507.05427) are accepted to Neural Information Processing Systems (NeurIPS).
 - [Jul] 📖 [STAtten](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Spiking_Transformer_with_Spatial-Temporal_Attention_CVPR_2025_paper.pdf) is accepted to 2nd Workshop on Neuromorphic Vision (NeVi) of ICCV.
 - [May] 📖 [One paper](https://arxiv.org/pdf/2504.02692) is accepted to International Conference on Machine Learning (ICML).
@@ -48,6 +49,11 @@ Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2410.19103)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ)]
 
 ## Publications
+
+- **MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**\\
+***Donghyun Lee***, Abhishek Moitra, Youngeun Kim, Ruokai Yin and Priyadarshini Panda \\
+**Design, Automation and Test in Europe Conference (DATE)**, 2026\\
+Paper and code will be released
 
 - **DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs**\\
 Ruokai Yin, Yuhang Li, ***Donghyun Lee***, Priyadarshini Panda\\
