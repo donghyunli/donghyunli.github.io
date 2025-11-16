@@ -44,9 +44,11 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ***Donghyun Lee***, Alex Sima, Yuhang Li, Panos Stinis, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2510.12102)]
 
-- **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\
-Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
-[[paper](https://arxiv.org/pdf/2410.19103)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ)]
+[//]: # (- **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\)
+
+[//]: # (Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\)
+
+[//]: # ([[paper]&#40;https://arxiv.org/pdf/2410.19103&#41;] [[code]&#40;https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ&#41;])
 
 ## Publications
 
