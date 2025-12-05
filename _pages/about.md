@@ -55,7 +55,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 - **MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**\\
 ***Donghyun Lee***, Abhishek Moitra, Youngeun Kim, Ruokai Yin and Priyadarshini Panda \\
 **Design, Automation and Test in Europe Conference (DATE)**, 2026\\
-Paper and code will be released
+[[paper](https://arxiv.org/pdf/2512.04443)]
 
 - **DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs**\\
 Ruokai Yin, Yuhang Li, ***Donghyun Lee***, Priyadarshini Panda\\
