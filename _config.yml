@@ -24,11 +24,11 @@ author:
   avatar           : "cafe.png"
   name             : "Donghyun Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D student in the EE Department at Yale University."
+  bio              : "Ph.D student in the ECE Department at USC."
   location         : # "USA"
-  employer         : "Yale University"
+  employer         : "University of Southern California"
   uri              : # URL
-  email            : "donghyun.lee@yale.edu" 
+  email            : "donghyun.lee.1@usc.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

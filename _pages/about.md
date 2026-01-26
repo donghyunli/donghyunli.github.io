@@ -8,17 +8,21 @@ redirect_from:
 ---
 
 
-Hello, I am 2nd year Ph.D. student in Electrical Engineering Department at Yale University, under supervised by [Prof. Priyadarshini Panda](https://intelligentcomputinglab.yale.edu/principal-investigator).
+Hello, I am 2nd year Ph.D. student in Electrical & Computing Engineering at University of Southern California (Transferred from Yale University), under supervised by [Prof. Priyadarshini Panda](https://intelligentcomputinglab.yale.edu/principal-investigator).
 
 
-I received B.E. degree in Mechanical Engineering Department at Yonsei University, South Korea and M.S. degree in Precision Instrument at Tsinghua University, China. Prior to joining Yale, I worked as an AI researcher at Ulsan National Institute of Science and Technology (UNIST), South Korea. My research interests center around spiking neural network, efficient deep learning strategies, and neuromorphic computing.
+I received B.E. degree in Mechanical Engineering Department at Yonsei University, South Korea and M.S. degree in Precision Instrument at Tsinghua University, China. My research interests center around spiking neural network, efficient deep learning strategies, and neuromorphic computing.
 
 
-**Email**: donghyun.lee@yale.edu
+**Email**: donghyun.lee.1@usc.edu, donghyun.lee@yale.edu
 
 [//]: # ([![Hits]&#40;https://hits.sh/donghyunli.github.io.svg?style=plastic&color=23E7E7E7&#41;]&#40;https://hits.sh/donghyunli.github.io/&#41;)
 
 ## News
+
+### 2026
+- [Jan] 📖 [One paper](https://arxiv.org/pdf/2506.18184) is accepted to 14th International Conference on Learning Representations (ICLR).
+
 ### 2025
 - [Nov] 📖 [One paper](https://arxiv.org/pdf/2512.04443) is accepted to the 29th Design, Automation and Test in Europe Conference (DATE).
 - [Sep] 📖 Two papers, [DuoGPT](https://arxiv.org/pdf/2506.20194), [OpenWorldSAM](https://arxiv.org/pdf/2507.05427) are accepted to Neural Information Processing Systems (NeurIPS).
@@ -36,10 +40,6 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 - [Jan] 📖 [One paper](https://arxiv.org/pdf/2401.08001) is accepted to the 27th Design, Automation and Test in Europe Conference (DATE).
 
 ## Preprint
-- ***Memba*: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**\\
-***Donghyun Lee***, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda\\
-[[paper](https://arxiv.org/pdf/2506.18184)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Memba)]
-
 - **SpikePool: Event-driven Spiking Transformer with Pooling Attention**\\
 ***Donghyun Lee***, Alex Sima, Yuhang Li, Panos Stinis, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2510.12102)]
@@ -51,6 +51,10 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 [//]: # ([[paper]&#40;https://arxiv.org/pdf/2410.19103&#41;] [[code]&#40;https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ&#41;])
 
 ## Publications
+- ***Memba*: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**\\
+***Donghyun Lee***, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda\\
+- **International Conference on Learning Representations (ICLR)**, 2026\\
+[[paper](https://arxiv.org/pdf/2506.18184)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Memba)]
 
 - **MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**\\
 ***Donghyun Lee***, Abhishek Moitra, Youngeun Kim, Ruokai Yin and Priyadarshini Panda \\
