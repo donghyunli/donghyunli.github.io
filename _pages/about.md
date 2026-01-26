@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-Hello, I am 2nd year Ph.D. student in Electrical & Computing Engineering at University of Southern California (Transferred from Yale University), under supervised by [Prof. Priyadarshini Panda](https://intelligentcomputinglab.yale.edu/principal-investigator).
+Hello, I am 2nd year Ph.D. student in Electrical & Computing Engineering at University of Southern California (Transferred from Yale University), under supervised by [Prof. Priyadarshini Panda](https://sites.usc.edu/intelligentcomputinglab/).
 
 
 I received B.E. degree in Mechanical Engineering Department at Yonsei University, South Korea and M.S. degree in Precision Instrument at Tsinghua University, China. My research interests center around spiking neural network, efficient deep learning strategies, and neuromorphic computing.
 
 
-**Email**: donghyun.lee.1@usc.edu, donghyun.lee@yale.edu
+**Email**: donghyun.lee.1@usc.edu (donghyun.lee@yale.edu)
 
 [//]: # ([![Hits]&#40;https://hits.sh/donghyunli.github.io.svg?style=plastic&color=23E7E7E7&#41;]&#40;https://hits.sh/donghyunli.github.io/&#41;)
 
@@ -53,7 +53,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ## Publications
 - ***Memba*: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**\\
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda\\
-- **International Conference on Learning Representations (ICLR)**, 2026\\
+**International Conference on Learning Representations (ICLR)**, 2026\\
 [[paper](https://arxiv.org/pdf/2506.18184)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Memba)]
 
 - **MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**\\
