@@ -40,6 +40,10 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 - [Jan] 📖 [One paper](https://arxiv.org/pdf/2401.08001) is accepted to the 27th Design, Automation and Test in Europe Conference (DATE).
 
 ## Preprint
+- **KronQ: LLM Quantization via Kronecker-Factored Hessian**\\
+***Donghyun Lee***, Yuhang Li, Ruokai Yin, Priyadarshini Panda\\
+*Paper will be realesed*
+
 - **Optimal Brain Decomposition for Accurate LLM Low-Rank Approximation**\\
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2604.00821)]
