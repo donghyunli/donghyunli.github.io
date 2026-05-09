@@ -67,17 +67,17 @@ Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 - **MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**\\
 ***Donghyun Lee***, Abhishek Moitra, Youngeun Kim, Ruokai Yin and Priyadarshini Panda \\
 **Design, Automation and Test in Europe Conference (DATE)**, 2026\\
-[[paper](https://arxiv.org/pdf/2512.04443)]
+[[paper](https://arxiv.org/pdf/2512.04443)] [[code](https://github.com/Intelligent-Computing-Lab-Panda/MD-SNN)]
 
 - **DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs**\\
 Ruokai Yin, Yuhang Li, ***Donghyun Lee***, Priyadarshini Panda\\
 **Neural Information Processing Systems (NeurIPS)**, 2025\\
-[[paper](https://arxiv.org/pdf/2506.20194)]
+[[paper](https://arxiv.org/pdf/2506.20194)] [[code](https://github.com/RuokaiYin/DuoGPT)]
 
 - **OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**\\
 Shiting Xiao, Rishabh Kabra, Yuhang Li, ***Donghyun Lee***, João Carreira, Priyadarshini Panda\\
 **Neural Information Processing Systems (NeurIPS)**, 2025\\
-[[paper](https://arxiv.org/pdf/2507.05427)]
+[[paper](https://arxiv.org/pdf/2507.05427)] [[code](https://github.com/GinnyXiao/OpenWorldSAM)]
 
 - **GPTAQ: Efficient Finetuning-Free Quantization with Asymmetric Calibration**\\
 Yuhang Li, Ruokai Yin, ***Donghyun Lee***, Shiting Xiao, Priyadarshini Panda\\
@@ -162,4 +162,6 @@ Wooshik Myung, ***Donghyun Lee***, Chenhang Song, Guanrui Wang, Cheng Ma\\
 - Reviewer, AAAI 2026
 - Reviewer, AISTATS 2025, 2026
 - Reviewer, ISCAS 2026
+- Reviewer, COLM 2026
 - Reviewer, Neurocomputing
+- Reviewer, Robotics and Autonomous Systems
