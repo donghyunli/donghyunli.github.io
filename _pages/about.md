@@ -158,7 +158,7 @@ Wooshik Myung, ***Donghyun Lee***, Chenhang Song, Guanrui Wang, Cheng Ma\\
 ## Professional Activities
 - Reviewer, NeurIPS 2024, 2025, 2026
 - Reviewer, ICLR 2025, 2026
-- Reviewer, ICML 2026
+- Reviewer, ICML 2026 (🏆 Silver Reviewer)
 - Reviewer, AAAI 2026
 - Reviewer, AISTATS 2025, 2026
 - Reviewer, ISCAS 2026
