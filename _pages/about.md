@@ -166,3 +166,4 @@ Wooshik Myung, ***Donghyun Lee***, Chenhang Song, Guanrui Wang, Cheng Ma\\
 - Reviewer, COLM 2026
 - Reviewer, Neurocomputing
 - Reviewer, Robotics and Autonomous Systems
+- Reviewer, International Journal of Computer Vision
