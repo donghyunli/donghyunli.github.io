@@ -163,7 +163,6 @@ Wooshik Myung, ***Donghyun Lee***, Chenhang Song, Guanrui Wang, Cheng Ma\\
 - Reviewer, AAAI 2026
 - Reviewer, AISTATS 2025, 2026
 - Reviewer, ISCAS 2026
-- Reviewer, COLM 2026
 - Reviewer, Neurocomputing
 - Reviewer, Robotics and Autonomous Systems
 - Reviewer, International Journal of Computer Vision
