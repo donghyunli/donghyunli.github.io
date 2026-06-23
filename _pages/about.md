@@ -160,7 +160,7 @@ Wooshik Myung, ***Donghyun Lee***, Chenhang Song, Guanrui Wang, Cheng Ma\\
 - Reviewer, NeurIPS 2024, 2025, 2026
 - Reviewer, ICLR 2025, 2026
 - Reviewer, ICML 2026 (🏆 Silver Reviewer)
-- Reviewer, AAAI 2026
+- Reviewer, AAAI 2026, 2027
 - Reviewer, AISTATS 2025, 2026
 - Reviewer, ISCAS 2026
 - Reviewer, Transactions on Machine Learning Research (TMLR)
