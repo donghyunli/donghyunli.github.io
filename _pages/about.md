@@ -21,6 +21,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ## News
 
 ### 2026
+- [Jul] 📖 [OrbitQuant](https://arxiv.org/pdf/2607.02461) is now on arXiv!
 - [May] 💼 I will join [Cantina](https://cantina.com/) as a Research Intern, working with Computer Vision Research team.
 - [Jan] 📖 [One paper](https://arxiv.org/pdf/2506.18184) is accepted to 14th International Conference on Learning Representations (ICLR).
 
