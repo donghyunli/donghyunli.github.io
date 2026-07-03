@@ -41,8 +41,12 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 - [Jan] 📖 [One paper](https://arxiv.org/pdf/2401.08001) is accepted to the 27th Design, Automation and Test in Europe Conference (DATE).
 
 ## Preprint
+- **OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers**\\
+***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
+[[paper](https://arxiv.org/pdf/2607.02461)]
+
 - **KronQ: LLM Quantization via Kronecker-Factored Hessian**\\
-***Donghyun Lee***, Yuhang Li, Ruokai Yin, Priyadarshini Panda\\
+***Donghyun Lee***, Jitesh Chavan, Duy Nguyen, Sam Huang, Liming Jiang, Priyadarshini Panda, Timo Mertens, Saurabh Shukla,\\
 *Paper will be realesed*
 
 - **Optimal Brain Decomposition for Accurate LLM Low-Rank Approximation**\\
