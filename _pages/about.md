@@ -44,7 +44,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ## Preprint
 - **OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers**\\
 ***Donghyun Lee***, Jitesh Chavan, Duy Nguyen, Sam Huang, Liming Jiang, Priyadarshini Panda, Timo Mertens, Saurabh Shukla\\
-[[paper](https://arxiv.org/pdf/2607.02461)]
+[[paper](https://arxiv.org/pdf/2607.02461)] [[project](https://saurabhcantina.github.io/orbitquant/)]
 
 - **KronQ: LLM Quantization via Kronecker-Factored Hessian**\\
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Priyadarshini Panda\\
