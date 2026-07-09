@@ -21,6 +21,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ## News
 
 ### 2026
+- [Jul] 📖 KronQ is accepted to Conference ON Language Modeling (COLM).
 - [Jul] 📖 [OrbitQuant](https://arxiv.org/pdf/2607.02461) is now on arXiv!
 - [May] 💼 I will join [Cantina](https://cantina.com/) as a Research Intern, working with Computer Vision Research team.
 - [Jan] 📖 [One paper](https://arxiv.org/pdf/2506.18184) is accepted to 14th International Conference on Learning Representations (ICLR).
@@ -46,10 +47,6 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ***Donghyun Lee***, Jitesh Chavan, Duy Nguyen, Sam Huang, Liming Jiang, Priyadarshini Panda, Timo Mertens, Saurabh Shukla\\
 [[paper](https://arxiv.org/pdf/2607.02461)] [[project](https://saurabhcantina.github.io/orbitquant/)]
 
-- **KronQ: LLM Quantization via Kronecker-Factored Hessian**\\
-***Donghyun Lee***, Yuhang Li, Ruokai Yin, Priyadarshini Panda\\
-*Paper will be realesed*
-
 - **Optimal Brain Decomposition for Accurate LLM Low-Rank Approximation**\\
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2604.00821)]
@@ -65,6 +62,11 @@ Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [//]: # ([[paper]&#40;https://arxiv.org/pdf/2410.19103&#41;] [[code]&#40;https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ&#41;])
 
 ## Publications
+- **KronQ: LLM Quantization via Kronecker-Factored Hessian**\\
+***Donghyun Lee***, Yuhang Li, Ruokai Yin, Priyadarshini Panda\\
+- **Conference ON Language Modeling (COLM)**, 2026\\
+*Paper will be realesed*
+
 - ***Memba*: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**\\
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda\\
 **International Conference on Learning Representations (ICLR)**, 2026\\
