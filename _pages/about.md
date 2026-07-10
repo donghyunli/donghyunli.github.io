@@ -65,7 +65,7 @@ Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 - **KronQ: LLM Quantization via Kronecker-Factored Hessian**\\
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Priyadarshini Panda\\
 **Conference On Language Modeling (COLM)**, 2026\\
-*Paper will be realesed*
+[[paper](https://arxiv.org/pdf/2607.07964)] [[code](https://github.com/Intelligent-Computing-Lab-Panda/KronQ)]
 
 - ***Memba*: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**\\
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda\\
