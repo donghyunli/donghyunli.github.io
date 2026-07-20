@@ -21,6 +21,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ## News
 
 ### 2026
+- [Jul] 📖 BRIM is accepted to International Conference on Computer-Aided Design (ICCAD).
 - [Jul] 📖 [KronQ](https://arxiv.org/pdf/2607.07964) is accepted to Conference On Language Modeling (COLM).
 - [Jul] 📖 [OrbitQuant](https://arxiv.org/pdf/2607.02461) is now on arXiv!
 - [May] 💼 I will join [Cantina](https://cantina.com/) as a Research Intern, working with Computer Vision Research team.
@@ -62,6 +63,10 @@ Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [//]: # ([[paper]&#40;https://arxiv.org/pdf/2410.19103&#41;] [[code]&#40;https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ&#41;])
 
 ## Publications
+- **BRIM: Workload-Balanced Dual-Sided Bit-Serial Sparse Inference Accelerator**\\
+Varun Manjunath, Ruokai Yin, ***Donghyun Lee***, Arkapravo Ghosh, Priyadarshini Panda\\
+**International Conference on Computer-Aided Design (ICCAD)**, 2026\\
+
 - **KronQ: LLM Quantization via Kronecker-Factored Hessian**\\
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Priyadarshini Panda\\
 **Conference On Language Modeling (COLM)**, 2026\\
