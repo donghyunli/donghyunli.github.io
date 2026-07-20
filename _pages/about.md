@@ -65,7 +65,7 @@ Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 ## Publications
 - **BRIM: Workload-Balanced Dual-Sided Bit-Serial Sparse Inference Accelerator**\\
 Varun Manjunath, Ruokai Yin, ***Donghyun Lee***, Arkapravo Ghosh, Priyadarshini Panda\\
-**International Conference on Computer-Aided Design (ICCAD)**, 2026\\
+**International Conference on Computer-Aided Design (ICCAD)**, 2026
 
 - **KronQ: LLM Quantization via Kronecker-Factored Hessian**\\
 ***Donghyun Lee***, Yuhang Li, Ruokai Yin, Priyadarshini Panda\\
