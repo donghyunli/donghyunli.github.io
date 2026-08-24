@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello, I am 2nd year Ph.D. student in Electrical & Computing Engineering at University of Southern California (Transferred from Yale University), under supervised by [Prof. Priyadarshini Panda](https://sites.usc.edu/intelligentcomputinglab/).
+Hello, I am 3rd year Ph.D. student in Electrical & Computing Engineering at University of Southern California (Transferred from Yale University), under supervised by [Prof. Priyadarshini Panda](https://sites.usc.edu/intelligentcomputinglab/).
 
 
 I received B.E. degree in Mechanical Engineering Department at Yonsei University, South Korea and M.S. degree in Precision Instrument at Tsinghua University, China. My research interests center around spiking neural network, efficient deep learning strategies, and neuromorphic computing.
