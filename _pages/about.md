@@ -21,6 +21,7 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ## News
 
 ### 2026
+- [Oct] 📖 [SoloQ](https://arxiv.org/pdf/2610.07121) is now on arXiv!
 - [Jul] 📖 [BRIM](https://arxiv.org/pdf/2607.19431) is accepted to International Conference on Computer-Aided Design (ICCAD).
 - [Jul] 📖 [KronQ](https://arxiv.org/pdf/2607.07964) is accepted to Conference On Language Modeling (COLM).
 - [Jul] 📖 [OrbitQuant](https://arxiv.org/pdf/2607.02461) is now on arXiv!
@@ -44,6 +45,10 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 - [Jan] 📖 [One paper](https://arxiv.org/pdf/2401.08001) is accepted to the 27th Design, Automation and Test in Europe Conference (DATE).
 
 ## Preprint
+- **SoloQ: Calibration-Free Quantization for Diffusion Language Models**\\
+***Donghyun Lee***, Arkapravo Ghosh, Varun Manjunath, Bumjoon Kyle Rhee, Hyunho Kook, Shiting Xiao, Youngeun Kim, Priyadarshini Panda\\
+[[paper](https://arxiv.org/pdf/2610.07121)] [[code](https://github.com/Intelligent-Computing-Lab-Panda/SoloQ)]
+
 - **OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers**\\
 ***Donghyun Lee***, Jitesh Chavan, Duy Nguyen, Sam Huang, Liming Jiang, Priyadarshini Panda, Timo Mertens, Saurabh Shukla\\
 [[paper](https://arxiv.org/pdf/2607.02461)] [[project](https://saurabhcantina.github.io/orbitquant/)]
