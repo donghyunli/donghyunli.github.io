@@ -179,8 +179,9 @@ Wooshik Myung, ***Donghyun Lee***, Chenhang Song, Guanrui Wang, Cheng Ma\\
 - Reviewer, ICLR 2025, 2026, 2027
 - Reviewer, ICML 2026 (🏆 Silver Reviewer)
 - Reviewer, AAAI 2026, 2027
+- Reviewer, CVPR 2027
 - Reviewer, AISTATS 2025, 2026, 2027
-- Reviewer, ISCAS 2026
+- Reviewer, ISCAS 2026, 2027
 - Reviewer, Robotics and Autonomous Systems
 - Reviewer, Neurocomputing
 - Reviewer, Neural Networks
