@@ -74,7 +74,7 @@ Will be released soon
 
 - **SpikePool: Event-driven Spiking Transformer with Pooling Attention**\\
 ***Donghyun Lee***, Alex Sima, Yuhang Li, Panos Stinis, Priyadarshini Panda\\
-**Neurocomputing, 2026\\
+**Neurocomputing**, 2026\\
 [[paper](https://arxiv.org/pdf/2510.12102)]
 
 - **BRIM: Workload-Balanced Dual-Sided Bit-Serial Sparse Inference Accelerator**\\
