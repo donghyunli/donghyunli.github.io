@@ -185,7 +185,7 @@ Wooshik Myung, ***Donghyun Lee***, Chenhang Song, Guanrui Wang, Cheng Ma\\
 
 ## Professional Activities
 **Invited Talks**
-- Toward Low-Bit Inference: From Second-Order to Data-Free Quantization for LLMs and Diffusion Models, Marvell, Nov 2026
+- *"Toward Low-Bit Inference: From Second-Order to Data-Free Quantization for LLMs and Diffusion Models"*, Marvell, Nov 2026
 
 **Reviewer**
 - Reviewer, NeurIPS 2024, 2025, 2026
