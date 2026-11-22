@@ -21,6 +21,8 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 ## News
 
 ### 2026
+- [Nov] 📖 [SpikePool](https://arxiv.org/pdf/2510.12102) is accepted to Neurocomputing.
+- [Nov] 📖 One paper has been accepted to the 29th Design, Automation and Test in Europe Conference (DATE) and will be released soon!
 - [Oct] 📖 [SoloQ](https://arxiv.org/pdf/2610.07121) is now on arXiv!
 - [Jul] 📖 [BRIM](https://arxiv.org/pdf/2607.19431) is accepted to International Conference on Computer-Aided Design (ICCAD).
 - [Jul] 📖 [KronQ](https://arxiv.org/pdf/2607.07964) is accepted to Conference On Language Modeling (COLM).
@@ -57,9 +59,6 @@ I received B.E. degree in Mechanical Engineering Department at Yonsei University
 Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [[paper](https://arxiv.org/pdf/2604.00821)]
 
-- **SpikePool: Event-driven Spiking Transformer with Pooling Attention**\\
-***Donghyun Lee***, Alex Sima, Yuhang Li, Panos Stinis, Priyadarshini Panda\\
-[[paper](https://arxiv.org/pdf/2510.12102)]
 
 [//]: # (- **TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**\\)
 
@@ -68,6 +67,16 @@ Yuhang Li, ***Donghyun Lee***, Ruokai Yin, Priyadarshini Panda\\
 [//]: # ([[paper]&#40;https://arxiv.org/pdf/2410.19103&#41;] [[code]&#40;https://github.com/Intelligent-Computing-Lab-Yale/TesseraQ&#41;])
 
 ## Publications
+- **Input-Aware Dynamic Expert Pruning for Efficient Spiking Mixture-of-Experts**\\
+Bumjoon Kyle Rhee, Dongwoo Lew, Hyunseok Jung, ***Donghyun Lee***, Joonhyun Baek, Jongsun Park and Priyadarshini Panda\\
+**Design, Automation and Test in Europe Conference (DATE)**, 2027\\
+Will be released soon
+
+- **SpikePool: Event-driven Spiking Transformer with Pooling Attention**\\
+***Donghyun Lee***, Alex Sima, Yuhang Li, Panos Stinis, Priyadarshini Panda\\
+**Neurocomputing, 2026\\
+[[paper](https://arxiv.org/pdf/2510.12102)]
+
 - **BRIM: Workload-Balanced Dual-Sided Bit-Serial Sparse Inference Accelerator**\\
 Varun Manjunath, Ruokai Yin, ***Donghyun Lee***, Arkapravo Ghosh, Priyadarshini Panda\\
 **International Conference on Computer-Aided Design (ICCAD)**, 2026\\
